@@ -1,0 +1,257 @@
+#maincont{
+    display: flex;
+    flex-direction: column;
+    font-size: 100px;
+    width: 100%;
+    color: purple;
+    background-color: rgb(235, 199, 235);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid maroon;
+    /* text-decoration:underline; */
+}
+
+#subcont{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    justify-content:left;
+    align-items:flex-start;
+    background-color: rgb(235, 199, 235);
+    padding-top: 50px; 
+     /* font-size: 100px;
+    color: purple; */
+    border: 1px solid firebrick;
+   
+}
+
+.pair{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    /* padding-bottom: 20px; */
+    
+}
+
+.user{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 20px;
+    
+    
+}
+
+.mail{
+    height: 20px;
+   
+}
+
+#pair1{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+}
+
+.pass{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 25px;
+    
+}
+
+.pas{
+    height: 20px;
+}
+
+#pair2{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.addre{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 54px;
+    
+}
+
+.addres{
+    height: 100px;
+    width: 300px;
+    
+}
+
+#pair3{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.num{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 59px;
+    
+}
+
+.no{
+    height: 20px;
+    /* width: 300px; */
+    
+}
+
+#pair4{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.select{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 94px;
+    
+}
+
+.find{
+    height: 20px;
+    /* width: 300px; */
+    
+}
+
+#pair5{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.our{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 50px;
+    
+}
+
+.nation{
+    height: 20px;
+    /* width: 300px; */
+    
+}
+
+
+#pair6{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.gene{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 80px;
+    
+}
+
+.genom{
+    height: 20px;
+    /* width: 300px; */
+    
+}
+
+.fell{
+    font-size: 25px;
+    color: teal;
+}
+
+.mel{
+    font-size: 25px;
+    color: teal;
+}
+
+.ots{
+    font-size: 25px;
+    color: teal;
+}
+
+#pair7{
+    display: flex;
+    flex-direction:row;
+    text-align: left;
+    justify-content: left;
+    align-items: flex-start;
+    padding-top: 30px;
+    
+    
+}
+
+.fod{
+    font-size: 25px;
+    color: indigo;
+    padding-right: 80px;
+    
+}
+
+
+
+.item1name{
+    font-size: 25px;
+    color: teal;
+}
+
+
+.item2name{
+    font-size: 25px;
+    color: teal;
+
+}
+
+
+.item3name{
+    font-size: 25px;
+    color: teal;
+}
+
+
+.item4name{
+    font-size: 25px;
+    color: teal;
+}
+
+
+.item5name{
+    font-size: 25px;
+    color: teal;
+}
